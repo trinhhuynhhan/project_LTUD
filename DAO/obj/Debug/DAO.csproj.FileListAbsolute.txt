@@ -1,0 +1,7 @@
+D:\HocKy3\LapTrinhUngDung\QuanLyDienThoai\DAO\bin\Debug\DAO.dll
+D:\HocKy3\LapTrinhUngDung\QuanLyDienThoai\DAO\bin\Debug\DAO.pdb
+D:\HocKy3\LapTrinhUngDung\QuanLyDienThoai\DAO\bin\Debug\DTO.dll
+D:\HocKy3\LapTrinhUngDung\QuanLyDienThoai\DAO\bin\Debug\DTO.pdb
+D:\HocKy3\LapTrinhUngDung\QuanLyDienThoai\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\HocKy3\LapTrinhUngDung\QuanLyDienThoai\DAO\obj\Debug\DAO.dll
+D:\HocKy3\LapTrinhUngDung\QuanLyDienThoai\DAO\obj\Debug\DAO.pdb
